@@ -1,0 +1,2 @@
+# Music-Recommender
+Music rating prediction system. This system intends to predict how much rating a user would give on a scale of 1-100 for an EMI company music track they are made to hear. This helps the company know how a particular track or an artist would be received upon launch and also helps them to design a music recommendation system by predicting songs for which the user will give a high rating.
